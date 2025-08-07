@@ -1,4 +1,4 @@
-# Chat Application Backend
+VibeRoom
 
 A real-time chat application backend built with Spring Boot, WebSocket, and MongoDB.
 
